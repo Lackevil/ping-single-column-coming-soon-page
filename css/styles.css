@@ -17,6 +17,10 @@ a {
   text-decoration: none;
 }
 
+html {
+  font-size: 20px;
+}
+
 html,
 body {
   height: 100%;
@@ -44,7 +48,7 @@ ul {
 
 body {
   color: var(--gray-400);
-  font-size: 20px;
+  font-size: 1rem;
   font-family: 'Libre Franklin', sans-serif;
 }
 
@@ -117,11 +121,8 @@ body {
 /* Notify */
 
 .notify {
-  margin-bottom: 65 px;
+  margin-bottom: 65px;
 }
-
-/* .notify__form {
-} */
 
 @media (max-width: 576px) {
   .notify__form {
@@ -230,9 +231,6 @@ body {
   justify-content: center;
   gap: 10px;
 }
-
-/* .social-list__item {
-} */
 
 .social-list__link {
   display: flex;
