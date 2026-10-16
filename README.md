@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution]()
-- Live Site URL: [live]()
+- Live Site URL: [live](https://lackevil.github.io/ping-single-column-coming-soon-page/)
 
 ### Built with
 
