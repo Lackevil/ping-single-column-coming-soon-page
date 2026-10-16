@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution]()
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-p7K1ncu6xh)
 - Live Site URL: [live](https://lackevil.github.io/ping-single-column-coming-soon-page/)
 
 ### Built with
